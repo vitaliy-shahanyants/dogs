@@ -24,8 +24,5 @@
             app:destination="@id/listFragment"
             app:enterAnim="@anim/fragment_open_enter"
             app:exitAnim="@anim/fragment_open_exit" />
-        <argument android:name="dogUid"
-            android:defaultValue="0"
-            app:argType="integer"/>
     </fragment>
 </navigation>
